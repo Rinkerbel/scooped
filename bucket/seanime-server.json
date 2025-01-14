@@ -1,5 +1,5 @@
 {
-    "version": "2.6.2",
+    "version": "2.5.2",
     "description": "Seanime is a media server with a web interface and desktop app for watching anime, managing your local library, and reading manga.",
     "homepage": "https://seanime.rahim.app",
     "license": "GPL-3.0-only",
@@ -7,7 +7,7 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://github.com/5rahim/seanime/releases/download/v2.6.2/seanime-2.6.2_Windows_x86_64.zip",
+                "https://github.com/5rahim/seanime/releases/download/v2.5.2/seanime-2.5.2_Windows_x86_64.zip",
                 "https://raw.githubusercontent.com/5rahim/seanime/refs/heads/main/seanime-desktop/src-tauri/icons/icon.ico"
             ],
             "hash": [
