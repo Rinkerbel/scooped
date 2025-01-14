@@ -6,14 +6,6 @@ A [Scoop](https://scoop.sh) bucket containing some apps that weren't on scoop ye
 
 - [Seanime](https://github.com/5rahim/seanime)
 
-## How do I install these manifests?
-
-After manifests have been committed and pushed, run the following:
-
-```pwsh
-scoop bucket add <bucketname> https://github.com/<username>/<bucketname>
-scoop install <bucketname>/<manifestname>
-```
 ## Usage
 
 After installing [Scoop](https://scoop.sh/), enter the following line in a
