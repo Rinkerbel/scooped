@@ -21,7 +21,6 @@
         "ffmpeg": "main/ffmpeg",
         "qbittorrent": "extras/qbittorrent"
     },
-    "persist": "data",
     "checkver": {
         "github": "https://github.com/5rahim/seanime"
     },
@@ -29,7 +28,7 @@
         [
             "seanime.exe",
             "Seanime Server",
-            "--datadir=$persist_dir\\data",
+            "",
             "icon.ico"
         ]
     ],
