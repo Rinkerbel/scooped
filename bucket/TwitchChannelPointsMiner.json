@@ -9,9 +9,15 @@
         "Learn how to configure your run.py at https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2?tab=readme-ov-file#how-to-use",
         ""
     ],
-    "url": "https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2/archive/refs/tags/1.9.9.zip#/dl.7z",
+    "url": [
+        "https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2/archive/refs/tags/1.9.9.zip#/dl.7z",
+        "https://raw.githubusercontent.com/Rinkerbel/assets/refs/heads/main/scoopbucket/twitchdropminericon.ico"
+    ],
     "extract_dir": "Twitch-Channel-Points-Miner-v2-1.9.9",
-    "hash": "7ee4facdd381e062b858235ae5751b9313d8bc85150f7895f77be8e55d79cc1b",
+    "hash": [
+        "7ee4facdd381e062b858235ae5751b9313d8bc85150f7895f77be8e55d79cc1b",
+        "c5c08cd16bdb749f69e184e1fc9ce8954460d2e4a206908fce17a34d05c60e81"
+    ],
     "pre_install": [
         "Write-Host \"\"",
         "if (!(Test-Path -Path $scoopdir\\persist\\TwitchChannelPointsMiner)) {",
@@ -41,7 +47,7 @@
             "run.bat",
             "Twitch Channel Points Miner",
             "",
-            ""
+            "twitchdropminericon.ico"
         ]
     ],
     "persist": [
