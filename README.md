@@ -5,6 +5,7 @@ A [Scoop](https://scoop.sh) bucket containing some apps that weren't on scoop ye
 ## List of applications in this bucket
 
 - [Seanime](https://github.com/5rahim/seanime)
+- [Twitch-Channel-Points-Miner](https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2)
 
 ## Usage
 
