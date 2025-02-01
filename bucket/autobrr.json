@@ -1,0 +1,39 @@
+{
+    "version": "1.58.0",
+    "homepage": "https://autobrr.com/",
+    "description": "Modern, easy to use download automation for torrents and usenet.",
+    "license": "GPL-2.0",
+    "notes": [
+        "Finish your installation with a Windows Task, instructions at https://autobrr.com/installation/windows",
+        "When creating the Windows Task set \"Start in\" to C:\\Users\\<your Username>\\scoop\\apps\\autobrr\\current\\config"
+    ],
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/autobrr/autobrr/releases/download/v1.58.0/autobrr_1.58.0_windows_x86_64.zip",
+            "hash": "f3b704f0042b9404754095d8e81681caf40001769651909eb548373119b545a0"
+        }
+    },
+    "pre_install": [
+        "if (!(Test-Path -Path $scoopdir\\persist\\autobrr\\config)) {",
+        "New-Item -Path $dir -Name config -ItemType Directory",
+        "} else {",
+        "Write-Host \"`r`persistent data already exists!\"}"
+    ],
+    "bin": [
+        "autobrr.exe",
+        "autobrrctl.exe"
+    ],
+    "persist": [
+        "config"
+    ],
+    "checkver": {
+        "github": "https://github.com/autobrr/autobrr"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/autobrr/autobrr/releases/download/v$version/autobrr_$version_windows_x86_64.zip"
+            }
+        }
+    }
+}
