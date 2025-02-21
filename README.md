@@ -8,6 +8,7 @@ A [Scoop](https://scoop.sh) bucket containing some apps that weren't on scoop ye
 - [Twitch-Channel-Points-Miner](https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2)
 - [shelter-installer](https://github.com/uwu/shelter-installer)
 - [autobrr](https://github.com/autobrr/autobrr)
+- [SteamTokenDumper](https://github.com/SteamDatabase/SteamTokenDumper)
 
 ## Usage
 
