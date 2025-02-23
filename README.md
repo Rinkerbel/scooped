@@ -4,11 +4,13 @@ A [Scoop](https://scoop.sh) bucket containing some apps that weren't on scoop ye
 
 ## List of applications in this bucket
 
+> Click [here](https://scoop.sh/#/apps?q=%22https%3A%2F%2Fgithub.com%2FRinkerbel%2Fscooped%22&o=false) to browse the list on scoop instead
 - [Seanime](https://github.com/5rahim/seanime)
 - [Twitch-Channel-Points-Miner](https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2)
 - [shelter-installer](https://github.com/uwu/shelter-installer)
 - [autobrr](https://github.com/autobrr/autobrr)
 - [SteamTokenDumper](https://github.com/SteamDatabase/SteamTokenDumper)
+- [migu](https://github.com/NoCrypt/migu)
 
 ## Usage
 
