@@ -12,6 +12,7 @@ A [Scoop](https://scoop.sh) bucket containing some apps that weren't on scoop ye
 - [SteamTokenDumper](https://github.com/SteamDatabase/SteamTokenDumper)
 - [migu](https://github.com/NoCrypt/migu)
 - [shiru](https://github.com/rockinchaos/shiru)
+- [Mangayomi](https://github.com/kodjodevf/mangayomi)
 
 ## Usage
 
