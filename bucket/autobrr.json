@@ -7,12 +7,8 @@
         "Finish your installation with a Windows Task, instructions at https://autobrr.com/installation/windows",
         "When creating the Windows Task set \"Start in\" to C:\\Users\\<your Username>\\scoop\\apps\\autobrr\\current\\config"
     ],
-    "architecture": {
-        "64bit": {
-            "url": "https://github.com/autobrr/autobrr/releases/download/v1.59.0/autobrr_1.59.0_windows_x86_64.zip",
-            "hash": "b92e3140d24cf1b90116c669e681414265e65108ffbeadafd2db8ef77ccbe661"
-        }
-    },
+    "url": "https://github.com/autobrr/autobrr/releases/download/v1.59.0/autobrr_1.59.0_windows_x86_64.zip",
+    "hash": "b92e3140d24cf1b90116c669e681414265e65108ffbeadafd2db8ef77ccbe661",
     "pre_install": [
         "if (!(Test-Path -Path $scoopdir\\persist\\autobrr\\config)) {",
         "New-Item -Path $dir -Name config -ItemType Directory",
@@ -28,10 +24,6 @@
         "github": "https://github.com/autobrr/autobrr"
     },
     "autoupdate": {
-        "architecture": {
-            "64bit": {
-                "url": "https://github.com/autobrr/autobrr/releases/download/v$version/autobrr_$version_windows_x86_64.zip"
-            }
-        }
+        "url": "https://github.com/autobrr/autobrr/releases/download/v$version/autobrr_$version_windows_x86_64.zip"
     }
 }
