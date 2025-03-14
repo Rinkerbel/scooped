@@ -10,9 +10,14 @@ A [Scoop](https://scoop.sh) bucket containing some apps that weren't on scoop ye
 - [shelter-installer](https://github.com/uwu/shelter-installer)
 - [autobrr](https://github.com/autobrr/autobrr)
 - [SteamTokenDumper](https://github.com/SteamDatabase/SteamTokenDumper)
-- [migu](https://github.com/NoCrypt/migu)
-- [shiru](https://github.com/rockinchaos/shiru)
+- [Migu](https://github.com/NoCrypt/migu)
+- [Shiru](https://github.com/rockinchaos/shiru)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
+- [AnymeX](https://github.com/RyanYuuki/AnymeX)
+- [ShokoServer](https://github.com/ShokoAnime/ShokoServer)
+- [Toru](https://github.com/sweetbbak/toru)
+- [Totoro](https://github.com/insomniachi/Totoro)
+- [zenshin](https://github.com/hitarth-gg/zenshin)
 
 ## Usage
 
