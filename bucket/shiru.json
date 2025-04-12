@@ -17,6 +17,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://github.com/RockinChaos/Shiru/releases/download/v$version/win-Shiru-$version-portable.exe#/dl.7z"
+        "url": "https://github.com/RockinChaos/Shiru/releases/download/v$version/win-Shiru-v$version-portable.exe#/dl.7z"
     }
 }
