@@ -18,6 +18,7 @@ A [Scoop](https://scoop.sh) bucket containing some apps that weren't on scoop ye
 - [Toru](https://github.com/sweetbbak/toru)
 - [Totoro](https://github.com/insomniachi/Totoro)
 - [zenshin](https://github.com/hitarth-gg/zenshin)
+- [GoAnime](https://github.com/alvarorichard/GoAnime)
 
 ## Usage
 
