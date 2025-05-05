@@ -1,5 +1,5 @@
 {
-    "version": "1.61.0",
+    "version": "1.62.0",
     "homepage": "https://autobrr.com/",
     "description": "Modern, easy to use download automation for torrents and usenet.",
     "license": "GPL-2.0",
@@ -7,8 +7,8 @@
         "Finish your installation with a Windows Task, instructions at https://autobrr.com/installation/windows",
         "When creating the Windows Task set \"Start in\" to C:\\Users\\<your Username>\\scoop\\apps\\autobrr\\current\\config"
     ],
-    "url": "https://github.com/autobrr/autobrr/releases/download/v1.61.0/autobrr_1.61.0_windows_x86_64.zip",
-    "hash": "9b6c984d6fcbe98cf943213e659ca16106cbb9c2eb6e4f172cdff5122c5be9d1",
+    "url": "https://github.com/autobrr/autobrr/releases/download/v1.62.0/autobrr_1.62.0_windows_x86_64.zip",
+    "hash": "85e37fbe5f83531067232774eac822616a2dffe64cb4193417a17d1d944d050a",
     "pre_install": [
         "if (!(Test-Path -Path $scoopdir\\persist\\autobrr\\config)) {",
         "New-Item -Path $dir -Name config -ItemType Directory",
