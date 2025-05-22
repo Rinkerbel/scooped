@@ -19,6 +19,7 @@ A [Scoop](https://scoop.sh) bucket containing some apps that weren't on scoop ye
 - [Totoro](https://github.com/insomniachi/Totoro)
 - [zenshin](https://github.com/hitarth-gg/zenshin)
 - [GoAnime](https://github.com/alvarorichard/GoAnime)
+- [MangaJaNaiConverterGui](https://github.com/the-database/MangaJaNaiConverterGui)
 
 ## Usage
 
