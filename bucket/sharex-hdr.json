@@ -1,10 +1,10 @@
 {
-    "version": "17.1.0",
+    "version": "17.1.1",
     "description": "Fork of ShareX with basic HDR support",
     "homepage": "https://getsharex.com/",
     "license": "GPL-3.0-only",
-    "url": "https://github.com/GotoFinal/ShareX-HDR/releases/download/v17.1.0-hdr/ShareX-17.1.0-portable.zip",
-    "hash": "ae8c3ff2c9da82c61aed440b7ccd4e7b35bb648f02fc6e4723c4891f08aef3d6",
+    "url": "https://github.com/GotoFinal/ShareX-HDR/releases/download/v17.1.1-hdr/ShareX-17.1.1-portable.zip",
+    "hash": "e23522cdf6d146ff5f63f07be8e457ada5f6578fdbab6922682e62bc869b7435",
     "pre_install": "if (!(Test-Path \"$persist_dir\\PersonalPath.cfg\")) { New-Item \"$dir\\PersonalPath.cfg\" | Out-Null }",
     "bin": "ShareX.exe",
     "shortcuts": [
@@ -18,7 +18,7 @@
         "ShareX"
     ],
     "checkver": {
-        "github": "https://github.com/ShareX/ShareX"
+        "github": "https://github.com/GotoFinal/ShareX-HDR"
     },
     "autoupdate": {
         "url": "https://github.com/GotoFinal/ShareX-HDR/releases/download/v$version-hdr/ShareX-$version-portable.zip"
