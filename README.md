@@ -6,6 +6,7 @@ A [Scoop](https://scoop.sh) bucket containing some apps that weren't on scoop ye
 
 > Click [here](https://scoop.sh/#/apps?q=%22https%3A%2F%2Fgithub.com%2FRinkerbel%2Fscooped%22&o=false) to browse the list on scoop instead
 - [Seanime](https://github.com/5rahim/seanime)
+- [Hayase](https://github.com/hayase-app/ui) [^1]
 - [Shiru](https://github.com/rockinchaos/shiru)
 - [zenshin](https://github.com/hitarth-gg/zenshin)
 - [Totoro](https://github.com/insomniachi/Totoro)
@@ -21,6 +22,8 @@ A [Scoop](https://scoop.sh) bucket containing some apps that weren't on scoop ye
 - [shelter-installer](https://github.com/uwu/shelter-installer)
 - [SteamTokenDumper](https://github.com/SteamDatabase/SteamTokenDumper)
 - [ShareX-HDR](https://github.com/GotoFinal/ShareX-HDR)
+
+[^1]: Previously known as Miru
 
 ## Usage
 
