@@ -6,20 +6,21 @@ A [Scoop](https://scoop.sh) bucket containing some apps that weren't on scoop ye
 
 > Click [here](https://scoop.sh/#/apps?q=%22https%3A%2F%2Fgithub.com%2FRinkerbel%2Fscooped%22&o=false) to browse the list on scoop instead
 - [Seanime](https://github.com/5rahim/seanime)
+- [Shiru](https://github.com/rockinchaos/shiru)
+- [zenshin](https://github.com/hitarth-gg/zenshin)
+- [Totoro](https://github.com/insomniachi/Totoro)
+- [AnymeX](https://github.com/RyanYuuki/AnymeX)
+- [Toru](https://github.com/sweetbbak/toru)
+- [GoAnime](https://github.com/alvarorichard/GoAnime)
+- [Mangayomi](https://github.com/kodjodevf/mangayomi)
+- [MangaJaNaiConverterGui](https://github.com/the-database/MangaJaNaiConverterGui)
+- [ShokoServer](https://github.com/ShokoAnime/ShokoServer)
+- [autobrr](https://github.com/autobrr/autobrr)
+- [qui](https://github.com/autobrr/qui)
 - [Twitch-Channel-Points-Miner](https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2)
 - [shelter-installer](https://github.com/uwu/shelter-installer)
-- [autobrr](https://github.com/autobrr/autobrr)
 - [SteamTokenDumper](https://github.com/SteamDatabase/SteamTokenDumper)
-- [Migu](https://github.com/NoCrypt/migu)
-- [Shiru](https://github.com/rockinchaos/shiru)
-- [Mangayomi](https://github.com/kodjodevf/mangayomi)
-- [AnymeX](https://github.com/RyanYuuki/AnymeX)
-- [ShokoServer](https://github.com/ShokoAnime/ShokoServer)
-- [Toru](https://github.com/sweetbbak/toru)
-- [Totoro](https://github.com/insomniachi/Totoro)
-- [zenshin](https://github.com/hitarth-gg/zenshin)
-- [GoAnime](https://github.com/alvarorichard/GoAnime)
-- [MangaJaNaiConverterGui](https://github.com/the-database/MangaJaNaiConverterGui)
+- [ShareX-HDR](https://github.com/GotoFinal/ShareX-HDR)
 
 ## Usage
 
