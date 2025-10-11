@@ -7,7 +7,7 @@
     "hash": "147ea6ee846cdfd145806411fbfa13388bc44e13aa8cdc80a8da002a9d350eb9",
     "pre_install": [
         "Expand-7zipArchive -Path \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
-        "Remove-Item \"$dir\\`$PLUGINSDIR\", \"$dir\\Uninstall*\" -Recurse -Force"
+        "Remove-Item \"$dir\\`$PLUGINSDIR\" -Recurse -Force"
     ],
     "shortcuts": [
         [
