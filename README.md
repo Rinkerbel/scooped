@@ -4,7 +4,8 @@ A [Scoop](https://scoop.sh) bucket containing some apps that weren't on scoop ye
 
 ## List of applications in this bucket
 
-> Click [here](https://scoop.sh/#/apps?q=%22https%3A%2F%2Fgithub.com%2FRinkerbel%2Fscooped%22&o=false) to browse the list on scoop instead
+> Click here to [browse the list on scoop instead](https://scoop.sh/#/apps?q="https://github.com/Rinkerbel/scooped"&o=false)
+
 - [Seanime](https://github.com/5rahim/seanime)
 - [Hayase](https://github.com/hayase-app/ui) [^1]
 - [Shiru](https://github.com/rockinchaos/shiru)
