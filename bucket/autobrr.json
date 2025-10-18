@@ -2,7 +2,7 @@
     "version": "1.68.0",
     "homepage": "https://autobrr.com/",
     "description": "Modern, easy to use download automation for torrents and usenet.",
-    "license": "GPL-2.0-only",
+    "license": "GPL-2.0-or-later",
     "notes": [
         "Finish your installation with a Windows Task, instructions at https://autobrr.com/installation/windows",
         "When creating the Windows Task set \"Start in\" to C:\\Users\\<your Username>\\scoop\\apps\\autobrr\\current\\config"
