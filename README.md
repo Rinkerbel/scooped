@@ -16,6 +16,7 @@ A [Scoop](https://scoop.sh) bucket containing some apps that weren't on scoop ye
 - [GoAnime](https://github.com/alvarorichard/GoAnime)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
 - [MangaJaNaiConverterGui](https://github.com/the-database/MangaJaNaiConverterGui)
+- [SyncYomi](https://github.com/syncyomi/syncyomi)
 - [ShokoServer](https://github.com/ShokoAnime/ShokoServer)
 - [autobrr](https://github.com/autobrr/autobrr)
 - [qui](https://github.com/autobrr/qui)
