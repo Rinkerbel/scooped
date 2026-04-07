@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "notes": "Refer to https://seanime.app for further setup instructions.",
     "url": [
-        "https://github.com/5rahim/seanime/releases/download/v3.5.2/seanime-3.5.2_Windows_x86_64.zip",
+        "https://seanime.app/api/updates/stable/seanime-3.5.2_Windows_x86_64.zip",
         "https://raw.githubusercontent.com/Rinkerbel/assets/refs/heads/main/scoopbucket/seanime-logo.ico"
     ],
     "hash": [
@@ -49,9 +49,10 @@
         ]
     ],
     "checkver": {
-        "github": "https://github.com/5rahim/seanime"
+        "url": "https://seanime.app/api/updates/stable/stable_server.json",
+        "jp": "$.release.version"
     },
     "autoupdate": {
-        "url": "https://github.com/5rahim/seanime/releases/download/v$version/seanime-$version_Windows_x86_64.zip"
+        "url": "https://seanime.app/api/updates/stable/seanime-$version_Windows_x86_64.zip"
     }
 }
