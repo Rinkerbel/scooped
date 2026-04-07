@@ -8,7 +8,6 @@ A [Scoop](https://scoop.sh) bucket containing some apps that weren't on scoop ye
 
 - [Seanime](https://github.com/5rahim/seanime)
 - [Hayase](https://github.com/hayase-app/ui) [^1]
-- [Shiru](https://github.com/rockinchaos/shiru)
 - [zenshin](https://github.com/hitarth-gg/zenshin)
 - [Totoro](https://github.com/insomniachi/Totoro)
 - [AnymeX](https://github.com/RyanYuuki/AnymeX)
