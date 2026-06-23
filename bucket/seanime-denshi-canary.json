@@ -1,5 +1,5 @@
 {
-    "version": "3.9.0-alpha.3",
+    "version": "3.9.0-alpha.4",
     "description": "Seanime is a media server with a web interface and desktop app for watching anime, managing your local library, and reading manga.",
     "homepage": "https://seanime.app",
     "license": "GPL-3.0-only",
@@ -7,8 +7,8 @@
         "Make sure to backup your data before installing this canary version,",
         "%AppData%\\Seanime is where your library database and settings are stored."
     ],
-    "url": "https://seanime.app/api/updates/nightly/seanime-denshi-3.9.0-alpha.3_Windows_x64.exe#/dl.7z",
-    "hash": "0b82dc390d5b1d27383933f3f112e8c45359ce1c9e28808061763f057ebf5aba",
+    "url": "https://seanime.app/api/updates/nightly/seanime-denshi-3.9.0-alpha.4_Windows_x64.exe#/dl.7z",
+    "hash": "a1303a2550c1a57f2d96997ceff1beaab6be6d7167729512d3e27c76ae20b14a",
     "pre_install": [
         "Expand-7zipArchive -Path \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
         "Remove-Item \"$dir\\`$PLUGINSDIR\", \"$dir\\`$R0\" -Recurse -Force"
