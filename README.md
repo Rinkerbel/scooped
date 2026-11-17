@@ -6,7 +6,7 @@ A [Scoop](https://scoop.sh) bucket containing some apps that weren't on scoop ye
 
 > Click here to [browse the list on scoop instead](https://scoop.sh/#/apps?q="https://github.com/Rinkerbel/scooped"&o=false)
 
-- [Seanime](https://github.com/5rahim/seanime)
+- [Seanime](https://seanime.app) (`seanime-server`, `seanime-denshi`, plus `-canary` variants of each)
 - [Hayase](https://github.com/hayase-app/ui) [^1]
 - [zenshin](https://github.com/hitarth-gg/zenshin)
 - [Totoro](https://github.com/insomniachi/Totoro)
@@ -14,14 +14,14 @@ A [Scoop](https://scoop.sh) bucket containing some apps that weren't on scoop ye
 - [Toru](https://github.com/sweetbbak/toru)
 - [GoAnime](https://github.com/alvarorichard/GoAnime)
 - [Mangayomi](https://github.com/kodjodevf/mangayomi)
-- [MangaJaNaiConverterGui](https://github.com/the-database/MangaJaNaiConverterGui)
+- [yosh](https://github.com/the-database/yosh)
+- [MangaJaNaiConverterGui](https://github.com/the-database/MangaJaNaiGUI)
 - [SyncYomi](https://github.com/syncyomi/syncyomi)
 - [ShokoServer](https://github.com/ShokoAnime/ShokoServer)
 - [autobrr](https://github.com/autobrr/autobrr)
 - [qui](https://github.com/autobrr/qui)
 - [Twitch-Channel-Points-Miner](https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2)
 - [shelter-installer](https://github.com/uwu/shelter-installer)
-- [SteamTokenDumper](https://github.com/SteamDatabase/SteamTokenDumper)
 - [ShareX-HDR](https://github.com/GotoFinal/ShareX-HDR)
 
 [^1]: Previously known as Miru
