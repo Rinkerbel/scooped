@@ -13,7 +13,6 @@
             "hash": "654ce7a56dfe2e3eb1444209e8133f9af8090cacb564cd35d21e42791ae06704"
         }
     },
-    "hash": "",
     "pre_install": "if (!(Test-Path \"$persist_dir\\PersonalPath.cfg\")) { New-Item \"$dir\\PersonalPath.cfg\" | Out-Null }",
     "bin": "ShareX.exe",
     "shortcuts": [
